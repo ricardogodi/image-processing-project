@@ -2,7 +2,7 @@
 
 ### Description
 
-This project processes PPM image files, performing operations like grayscale conversion, thresholding, flipping horizontally, edge detection, and rotating right by 90 degrees. The project is written in F# and uses C# as a bridge to call the F# functions.
+This project processes PPM image files, performing operations like grayscale conversion, thresholding, flipping horizontally, edge detection, and rotating right by 90 degrees. The project is written in F# and uses functional programming techniques to manipulate the images. C# is used as a bridge to call the F# functions.
 
 ### Contributions
 
