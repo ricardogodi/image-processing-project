@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rbZ2Yjt/J8U=",
+  "success": true,
+  "projectFilePath": "/Users/ricardogonzalez/Desktop/project/ImageLibrary/ImageLibrary.fsproj",
+  "expectedPackageFiles": [
+    "/Users/ricardogonzalez/.nuget/packages/fsharp.core/8.0.301/fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}

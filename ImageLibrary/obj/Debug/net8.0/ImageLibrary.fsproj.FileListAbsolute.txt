@@ -1,0 +1,11 @@
+/Users/ricardogonzalez/Desktop/project/ImageLibrary/obj/Debug/net8.0/ImageLibrary.fsproj.AssemblyReference.cache
+/Users/ricardogonzalez/Desktop/project/ImageLibrary/obj/Debug/net8.0/ImageLibrary.AssemblyInfoInputs.cache
+/Users/ricardogonzalez/Desktop/project/ImageLibrary/obj/Debug/net8.0/ImageLibrary.AssemblyInfo.fs
+/Users/ricardogonzalez/Desktop/project/ImageLibrary/obj/Debug/net8.0/ImageLibrary.fsproj.CoreCompileInputs.cache
+/Users/ricardogonzalez/Desktop/project/ImageLibrary/bin/Debug/net8.0/ImageLibrary.deps.json
+/Users/ricardogonzalez/Desktop/project/ImageLibrary/bin/Debug/net8.0/ImageLibrary.dll
+/Users/ricardogonzalez/Desktop/project/ImageLibrary/bin/Debug/net8.0/ImageLibrary.pdb
+/Users/ricardogonzalez/Desktop/project/ImageLibrary/obj/Debug/net8.0/ImageLibrary.dll
+/Users/ricardogonzalez/Desktop/project/ImageLibrary/obj/Debug/net8.0/refint/ImageLibrary.dll
+/Users/ricardogonzalez/Desktop/project/ImageLibrary/obj/Debug/net8.0/ImageLibrary.pdb
+/Users/ricardogonzalez/Desktop/project/ImageLibrary/obj/Debug/net8.0/ref/ImageLibrary.dll
